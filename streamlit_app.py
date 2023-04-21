@@ -15,7 +15,8 @@ from sklearn.metrics import confusion_matrix
 ##### Programando a Barra Superior da Aplicação Web #####
 
 # Título
-st.write("*Formação Engenheiro de Machine Learning - Atividade Igor Vinícius - Ciências de Dados - P2*")
+st.write("*- Atividade Igor Vinícius - Ciências de Dados - P2*")
+st.write("*Formação Engenheiro de Machine Learning*")
 st.write("*Deploy de Modelos de Machine Learning*")
 st.write("*Deploy de Aplicações Preditivas com Streamlit*")
 st.title("Regressão Logística")
